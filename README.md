@@ -68,7 +68,7 @@
 
 ---
 
-## Author / Geliştirici
+## Developer / Geliştirici
 
 **Name / İsim:** Zişan Yüce  
 **Role / Rol:** Full Stack Developer & Computer Engineering Student 
